@@ -1,7 +1,7 @@
 import React from 'react'
 import Records from '../Records.json';
 
-export default function ItemProduct() {
+export default function ItemProduct(props) {
   return (
     <div>
       {
