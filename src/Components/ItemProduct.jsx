@@ -22,9 +22,7 @@ export default function ItemProduct(props) {
                         <input type="button" value="Add to Basket" />
                     </div>
 
-                    <div className="nice">
-                      hello duniya
-                    </div>
+                    
                 </div>
 
                 
